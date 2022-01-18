@@ -43,7 +43,14 @@ Tabla 6.1. Parámetros Eléctricos del circuito de la figura 6.1.
 
 ¿Cuál fue la potencia máxima en RL?
 
+La Maxima Potencia es de 0.04651 Watts con la resistencia de 1 kΩ.
+
 ¿Para qué valor de RL se obtiene la MTP?
 
+La maxima transferencia de potencia se la hallo en la resistencia de 1kΩ. Sin embargo, se la debe hallar con una resistencia de igual valor que la resistencia de Thevenin del circuito dicho, es decir, la resistencia deberia ser de 1.2kΩ para que se obtenga una maxima transferencia de potencia real ya que:
+
+![image](https://user-images.githubusercontent.com/94079321/149947517-acd94066-2270-430a-96f1-a4b7d06df99c.png)
+
+De este punto en adelante la corriente disminuye a medida que aumenta el voltaje. De igual forma disminuye la potencia
 
 5. Conclusiones
