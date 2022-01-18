@@ -29,7 +29,69 @@ Arme el circuito que se muestra en la figura 6.1.
 
 Mida el voltaje y la corriente para cada valor de RL que se indica en la tabla 6.1. Anote los resultados medidos.
 
-Calcule las potencia consumida por RL, para cada valor dado y anote los resultados en la tabla 6.1.
+Calcule las potencia consumida por RL, para cada valor dado y anote los
+resultados en la tabla 6.1. 
+
+- RL= 220 Ω
+
+![image](https://user-images.githubusercontent.com/94079321/149965755-6215af12-1b78-4a3d-8ff3-9e61b7df4eb8.png)
+
+Potencia Calculada (W) = 24719.2 mW
+
+- RL= 470 Ω
+
+![image](https://user-images.githubusercontent.com/94079321/149972411-d925d5a8-642d-49e2-8081-1fc84b6e5d15.png)
+
+Potencia calculada (W) = 37900.988
+
+- RL= 680 Ω
+
+![image](https://user-images.githubusercontent.com/94079321/149973119-e69f3e06-3ab9-4e45-8b79-4ab0f6932ded.png)
+
+Ptencia calculada (W) = 43302.7 mW
+
+- RL= 820 Ω
+
+![image](https://user-images.githubusercontent.com/94079321/149973607-ad79c7b1-ebf8-4dd4-a3dc-af74197e55e3.png)
+
+Ptencia calculada (W) = 45268.02 mW
+
+- RL= 1 KΩ
+
+![image](https://user-images.githubusercontent.com/94079321/149975902-75534714-f26f-4e28-90b9-d3b3ba14c45b.png)
+
+Potencia calculada (W) =  46512.4 mW
+
+- RL= 1,5 KΩ
+
+![image](https://user-images.githubusercontent.com/94079321/149976105-9bfd850c-6414-4ea0-a782-3d3af0a92031.png)
+
+Potencia calculada (W) =  46370.4 mW
+
+- RL= 1,8 KΩ
+
+![image](https://user-images.githubusercontent.com/94079321/149976364-3ba3902b-905c-4f31-a5b6-c03a30346bb6.png)
+
+Potencia calculada (W) = 45000 mW
+
+- RL= 2,2 KΩ
+
+![image](https://user-images.githubusercontent.com/94079321/149976508-ce0f92dd-3cad-4f21-b486-14e9e9d5e32b.png)
+
+Potencia calculada (W) = 42785.8 mW
+
+- RL= 3,9 KΩ
+
+![image](https://user-images.githubusercontent.com/94079321/149976737-c2f47594-e3ea-4e5a-ae01-1c755e98f98d.png)
+
+Potencia calculada (W) =  33710.04 mW
+
+- RL= 4.7 KΩ
+
+![image](https://user-images.githubusercontent.com/94079321/149976879-5b1c508a-8a2c-4361-9eb4-ce4131ded660.png)
+
+Potencia calculada (W) = 30322.5 mW 
+
 
 Tabla 6.1. Parámetros Eléctricos del circuito de la figura 6.1.
 
