@@ -4,9 +4,15 @@ Integrantes: Flores Samuel, Cela Lizz, Sánchez Isaac
 
 1. Objetivos
 
-1.1. Objetivo General
+1.1.  Objetivo Genera
+
+Definir y experimentar con el teorema de la máxima transferencia de potencia a través de un circuito digital.
 
 1.2. Objetivo Especifico
+
+- Definir bajo qué circunstancias se utiliza el teorema de máxima transferencia de potencia.
+
+-  Desarrollar paso a paso el proceso del teorema de máxima transferencia de potencia en el circuito dado.
 
 2. Información general
 
@@ -116,3 +122,10 @@ La maxima transferencia de potencia se la hallo en la resistencia de 1kΩ. Sin e
 De este punto en adelante la corriente disminuye a medida que aumenta el voltaje. De igual forma disminuye la potencia
 
 5. Conclusiones
+
+- Mediante este teorema logramos optimizar la potencia en nuestro circuito digital y así maximizando nuestros recursos logramos tener un circuito con potencia máxima.
+
+-  Este teorema al ser empleado en nuestro circuito, demuestra que para tener una máxima transferencia de potencia se debe tener en cuenta el voltaje el cual estamos utilizando pero sobretodo las resistencias con las que trabajamos.
+
+-  Para realizar este teorema se debe tener en claro procesos de resolución de circuitos como las leyes de Kirchhoff y el teorema de Thevenin ya que van de la mano para resolver este problema.
+
